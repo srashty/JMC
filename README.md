@@ -3,7 +3,7 @@
 <html>
 <table background=https://www.google.co.in/search?q=image+of+jesus+and+mary+college+new+delhi&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjsr76w7OfSAhVKNo8KHcacCFkQ_AUICCgD&biw=1366&bih=638#imgrc=-imZFAh0kav74M:>
 <tr>
-<th colspan="3">JMC</th>
+<th colspan="3"><marquee direction="right">JMC</marquee></th>
 </tr>
 <tr>
 <th>DETAIL</th>
