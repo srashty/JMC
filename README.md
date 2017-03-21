@@ -1,7 +1,7 @@
 # JMC
 
 <html>
-<table background=http://www.jmc.ac.in/images/home-banner.jpg>
+<table background=https://www.google.co.in/search?q=image+of+jesus+and+mary+college+new+delhi&espv=2&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjsr76w7OfSAhVKNo8KHcacCFkQ_AUICCgD&biw=1366&bih=638#imgrc=-imZFAh0kav74M:>
 <tr>
 <th colspan="3">JMC</th>
 </tr>
