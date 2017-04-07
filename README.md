@@ -2,6 +2,7 @@
 
 <html>
 <table>
+<img src="http://collegedunia.com/public/college_data/images/campusimage/1412427543js1.jpg">
 <tr>
 <th colspan="3"><marquee direction="right">JMC</marquee></th>
 </tr>
