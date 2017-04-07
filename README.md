@@ -71,4 +71,4 @@
 </tr>
 </table>
 </html>
-To go to the page click---><a href="http://www.jmc,ac">JMC</a>
+To go to the page click---><a href="http://www.jmc.ac.in">JMC</a>
