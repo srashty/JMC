@@ -58,10 +58,6 @@
 <td colspan="4">this page contains only 5 backlinks like "http://ekgmachines.org/article/639777859/delhi-university-colleges/"></td>
 </tr>
 <tr>
-<th>Pagerank</th>
-<td colspan="4">pagerank is 7</td>
-</tr>
-<tr>
 <th>underscore</th>
 <td colspan="2">not found</td>
 <td colspan="2">your webpage does not contains underscoe which is good </td>
